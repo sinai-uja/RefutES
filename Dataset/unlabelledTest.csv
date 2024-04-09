@@ -1,0 +1,191 @@
+id,Hate_speech,Target
+testCN-0,Los niños con síndrome de Down pueden entorpecer el proceso de desarrollo de otros niños. Deben ser aislados.,DISCAPACITADOS
+testCN-1,"Los retrasados de hoy en día son tan estúpidos como cuando eran pequeños. Se creen tan especiales que saben leer, escribir y ser creativos. Ahora es su mundo.",DISCAPACITADOS
+testCN-2,Los discapacitados no pueden hacer frente a la vida.,DISCAPACITADOS
+testCN-3,"Los discapacitados son diferentes a nosotros, no quiero que me molesten.",DISCAPACITADOS
+testCN-4,Los discapacitados físicos merecen ser utilizados.,DISCAPACITADOS
+testCN-5,los ciegos no saben lo que pasa,DISCAPACITADOS
+testCN-6,Los profesores y los padres deben negar la asistencia a la escuela a los niños con dificultades de aprendizaje.,DISCAPACITADOS
+testCN-7,Las personas con discapacidad no deben ser escuchadas.,DISCAPACITADOS
+testCN-8,"Los niños discapacitados son una carga para la sociedad: deben ser aislados, para que al menos no obstaculicen la educación de los niños normales.",DISCAPACITADOS
+testCN-9,Todos los judíos son criminales.,JUDÍOS
+testCN-10,Los judíos son responsables de los atentados del 11-S.,JUDÍOS
+testCN-11,Los judíos se diferencian de nosotros en que les gusta aprovecharse de los demás.,JUDÍOS
+testCN-12,Los judíos no son más que criminales,JUDÍOS
+testCN-13,A los judíos se les da mejor ser furtivos que honestos.,JUDÍOS
+testCN-14,"No soy un promotor del nazismo ni hago apología de la Shoah, pero, al fin y al cabo, los judíos son la fuente de todos los problemas del mundo.",JUDÍOS
+testCN-15,"Las estructuras de poder judías dominan el gobierno mundial, controlan el Congreso, controlan los medios de comunicación y controlan el mundo académico. Los judíos son los únicos que pueden conseguir que se haga algo.",JUDÍOS
+testCN-16,Los judíos son un problema en muchos países. Se están apoderando de nuestra economía y no son bienvenidos aquí.,JUDÍOS
+testCN-17,Los judíos son un puñado de tacaños que controlan nuestra sociedad.,JUDÍOS
+testCN-18,¿Por qué los gays no intentan curarse?,LGBT+
+testCN-19,La homosexualidad es incompatible con los modos de vida de Europa.,LGBT+
+testCN-20,Que aceptemos la homosexualidad no significa que tengamos que aceptar también a los transexuales.,LGBT+
+testCN-21,¿Qué sentido tiene amar a alguien si no se le puede amar de forma heterosexual?,LGBT+
+testCN-22,los gays son sólo sexo,LGBT+
+testCN-23,Los homosexuales son menos que humanos.,LGBT+
+testCN-24,"Los maricones no son bienvenidos entre nosotros, los humanos, porque son diferentes.",LGBT+
+testCN-25,La Biblia dice que la homosexualidad es una abominación,LGBT+
+testCN-26,Los LGBT son un lastre para la sociedad.,LGBT+
+testCN-27,"Los gays deben dejar de actuar como princesas paseando por las calles. Si no, debemos detenerlos.",LGBT+
+testCN-28,El mundo sería un lugar mejor sin inmigrantes.,MIGRANTES
+testCN-29,Los inmigrantes y refugiados no comparten nuestros valores religiosos.,MIGRANTES
+testCN-30,Los inmigrantes están invadiendo nuestro país. No son bienvenidos aquí.,MIGRANTES
+testCN-31,extranjeros e inmigrantes nos quitan el trabajo,MIGRANTES
+testCN-32,"Estamos siendo invadidos, debemos luchar hasta vencer a los inmigrantes.",MIGRANTES
+testCN-33,"La inmigración es la causa de nuestras desgracias, los inmigrantes son los responsables de nuestros problemas.",MIGRANTES
+testCN-34,La inmigración es mala para la economía.,MIGRANTES
+testCN-35,La crisis de los refugiados en nuestro país es una carga para nuestra sociedad.,MIGRANTES
+testCN-36,Los migrantes son personas violentas y peligrosas para nosotros.,MIGRANTES
+testCN-37,Los inmigrantes nos roban el trabajo y arruinan nuestro país.,MIGRANTES
+testCN-38,Las mujeres no tienen cabida en una sociedad libre y abierta. Deberían limitarse a hacer las tareas domésticas y criar a los hijos sin quejarse.,MUJERES
+testCN-39,El feminismo es una fuerza destructiva que frena el progreso de la humanidad.,MUJERES
+testCN-40,"A las feministas no les gustan los hombres, por lo tanto son una amenaza para toda la sociedad.",MUJERES
+testCN-41,"Las mujeres deben dejar de actuar como apologistas de las víctimas de violación, porque esto no es más que una artimaña creada por las mujeres para explotar y dominar a los hombres. El movimiento feminista no trata de la igualdad y el respeto de todos los seres humanos.",MUJERES
+testCN-42,Las feministas son seres sexuales subhumanos violentos.,MUJERES
+testCN-43,Las mujeres son menos inteligentes.,MUJERES
+testCN-44,"Por eso las mujeres no pertenecen a la política, si un hombre se quejara como ellas, le llamarían cobarde y le dirían que se largara del trabajo. La igualdad es una mentira y el feminismo es una sentencia de muerte para cualquier civilización.",MUJERES
+testCN-45,Las mujeres líderes colapsarían el gobierno.,MUJERES
+testCN-46,"Las mujeres son básicamente infantiles, permanecen así la mayor parte de su vida. Salvo en caso de divorcio o separación, nadie habla de ellas.",MUJERES
+testCN-47,"Las mujeres son todas infrahumanas, deberíamos parar las feministas que no lo aceptan.",MUJERES
+testCN-48,"Si los musulmanes británicos fueran como los demás europeos, podríamos estar orgullosos.",MUSULMANES
+testCN-49,"Nunca podría enamorarme de un musulmán, no me gustan. Tienen síntomas horribles: pereza, agresividad, mal olor.",MUSULMANES
+testCN-50,El Islam debería ser abolido. Empiezan por mutilar a sus hijas y luego degollarán a nuestras mujeres.,MUSULMANES
+testCN-51,Todos los delincuentes musulmanes deberían ser deportados: ¡todos son terroristas!,MUSULMANES
+testCN-52,"Los musulmanes no pueden estar en democracia porque votan con los pies, no con las urnas.",MUSULMANES
+testCN-53,Los musulmanes nos están invadiendo. No son bienvenidos aquí.,MUSULMANES
+testCN-54,"Los musulmanes no tienen nada que aportar a nuestra sociedad, deberían irse del Reino Unido.",MUSULMANES
+testCN-55,El islam es una religión de muerte.,MUSULMANES
+testCN-56,"El Islam es una religión que promueve la violación, la tortura y el asesinato.",MUSULMANES
+testCN-57,"El Islam no es una religión pacífica, todos los musulmanes son personas violentas.",MUSULMANES
+testCN-58,Todos los hombres negros son violadores.,POC
+testCN-59,somos fuertes cuando todos somos blancos y estamos unidos. no somos fuertes cuando estamos divididos por negros que quieren combatirnos.,POC
+testCN-60,"La raza negra es infrahumana, en África mantienen a sus hijos en condiciones horribles.",POC
+testCN-61,Vivimos en una sociedad de blancos. Los negros no pertenecen aquí.,POC
+testCN-62,Todos los negros son violadores.,POC
+testCN-63,Ningún negro debería tener derecho a voto.,POC
+testCN-64,Los negros cometen más delitos que los blancos.,POC
+testCN-65,"¿Quién coño es Breonna Taylor? ¿Una representante del pueblo, una enfermera o una tapadera del gobierno?",POC
+testCN-66,Tenemos que proteger a nuestra gente. Los negros deben ser deportados.,POC
+testCN-67,los negros son inferiores.,POC
+testCN-68,"¿De qué demonios estás hablando? Los árabes son diferentes, ni siquiera hablan inglés.",otros
+testCN-69,El mundo europeo está siendo invadido y sustituido por inmigrantes y musulmanes.,otros
+testCN-70,Los gitanos son sucios,otros
+testCN-71,"Por supuesto, ¡hay que discriminar los comportamientos poco saludables, no a los gordos!",otros
+testCN-72,Si a los musulmanes no se les permitiera emigrar aquí todos estaríamos mejor,otros
+testCN-73,Los nativos americanos tienen cero puto derecho a su tierra. No han vivido en ella desde tiempos inmemoriales.,otros
+testCN-74,Los musulmanes no son bienvenidos aquí. No son como nosotros y no pueden coexistir con nosotros.,otros
+testCN-75,Los musulmanes sólo están en esto para hacernos explotar.,otros
+testCN-76,No tenemos por qué ser esclavos de otros países: debemos dejar de aceptar a los negros en nuestro país.,otros
+testCN-77,Debemos derrocar el Estado existente y sustituirlo por uno de supremacía blanca.,otros
+testHS-D01,"🇮🇱#URGENTE: Decenas de terroristas de #Hamas se han rendido frente al edificio de la UNRWA en #Gaza.
+
+Ahorita salen los borregos antisemitas diciendo palabras de discapacitados mentales: Es un crimen, #Israel está perdiendo la guerra, free free free free palestine. 😭🤣",DISCAPACITADOS
+testHS-D02,no podeis ser todos autistas necesitamos fontaneros,DISCAPACITADOS
+testHS-D03,me cansé de los autistas busco hombre que no sea un mongolico,DISCAPACITADOS
+testHS-D04,"También son ganas de pasar por un cole justo a la hora de entrar. A veces parece que busquéis que todo gire a vuestro alrededor con la excusa de la discapacidad. Ayudaros por supuesto, pero ni tanto ni tan poco...",DISCAPACITADOS
+testHS-D05,que asco m dan los discapacitados,DISCAPACITADOS
+testHS-D06,que asco de subnormales,DISCAPACITADOS
+testHS-D07,"Hay gente estúpida en está red. Los antivacunas son unos insufribles, anormales, inmamables. Pueden darme block con todo gusto no me intersa leer sus opiniones.",DISCAPACITADOS
+testHS-D08,La línea está cerrada desde diciembre. La izquierda es una secta de retrasados mentales.,DISCAPACITADOS
+testHS-D09,"A estas horas hace casi 4 años, había miles de retrasados mentales por toda España berreándote desde sus ventanas si bajabas a la calle porque se creyeron que había un bicho asesino en el aire que te podía matar si no llevabas un pañal cubriéndote la boca.
+
+Fue muy bizarro.",DISCAPACITADOS
+testHS-D10,dios mío q chapen edtwt solo hay retrasados y enfermos mentales no pdo mas,DISCAPACITADOS
+testHS-J01,"¡Lo sabía, eran judíos, putos y comunistas!",JUDÍOS
+testHS-J02,"LOS INGLESES, LOS JUDÍOS Y PUTIN SE CACHONDEAN A DIARIO DE LAS NACIONES UNIDAS, DE LA HOSTIA PUTA Y DEL COPÓN DIVINO.",JUDÍOS
+testHS-J03,Putos judios de mierda,JUDÍOS
+testHS-J04,Feliz día antisemita (no nos gustan las semitas) ni los putos judíos,JUDÍOS
+testHS-J05,"Las películas siempre quisieron pintar a los judíos✡️ como víctimas.
+
+El internet nos dice la puta verdad. #MeCagoEnJahvé",JUDÍOS
+testHS-J06,Lpm 9 de cada 10 judios que conozco son unos hijos de puta,JUDÍOS
+testHS-J07,"Judíos asquerosos, ya llegará el hermoso día en que ni uno pise la tierra",JUDÍOS
+testHS-J08,"A diferencia de los racistas y pedrastas Hammas y sus acolitos no matan niños, sólo se defienden de la raza más execrable que conoció la humanidad, los asquerosos judíos, que ni existen ni existirán mas allá de la imaginación de occidente. Su tiempp se acaba y pagaran su ofenza.",JUDÍOS
+testHS-J09,Judíos asquerosos inventaron la masonería para corromper el reino físico,JUDÍOS
+testHS-J10,"Estos Judíos asquerosos quieren controlar toda la comunicación entregada. Con sus diarios, medios de comunicación ahora Chatgpt, imagínate este imbécil del villegas diciendo que los niños aprendan de esa basura",JUDÍOS
+testHS-L01,odio a los gays los odio lod odios son tontos tontos imbeciles tontos fáciles imbéciles imbéciles tontos tontos,LGBT+
+testHS-L02,Si tan hombres son déjense de comportar como pelotudos gays y dejen de llorar por bldeces tontos,LGBT+
+testHS-L03,Y luego los progres se sorprenden de que haya gente que rechace la celebración del Orgullo Gay. Parece que todo vale para el colectivo LGTBI.,LGBT+
+testHS-L04,putas bolleras asquerosas,LGBT+
+testHS-L05,"Una pollaaaa! Lo de ver a 2 bolleras asquerosas dándose el filete en el metro no me agrada,es más activa mi lado violento!",LGBT+
+testHS-L06,Conclusion del dia: Definitivamente todas las bolleras son unas guarras,LGBT+
+testHS-L07,"LA MAYPRIA DLA GENTE""RECHASAMOS A LOSS TRAVESTIS,ES CHOCANTE ANTINATURAL.ENTRE 4 PAREDES Q HAGAN LO QKIERAN.PERO NO ENLA CALLE",LGBT+
+testHS-L08,"Que no gane tio, esque es antinatural, es una puta aberración humana, que lo de los travestis es respetable, si, pero eso es demasiado ya.",LGBT+
+testHS-L09,"Todo es malo, conozco a muchos gays y puedo decirlo: es algo antinatural, inmoral, sucio, aberrante; un mundo de locas, travestís, promiscuidad, pornografía, prostitución, pedofilia, pederastia, drogadicción, infidelidades, envidias, suicidios, depresiones ¿Algo más? 😖😖😖🤢🤮",LGBT+
+testHS-L10,"LA ÚNICA BURRA AQUÍ ES LA PERRA DE TU MADRE BASTARDO ENFERMO MARICON,NO SEAS IMBECIL Y ANALFABETA LAS MUJERES DE VERDAD NO VAN A URÓLOGO BASURA! CON ESE PERFIL Q TIENES Y ESAS FOTOS NO ME EXTRAÑA LA BURRADA Q DIJISTE PUES EL ÚNICO Q COME PASTI CON MIERDA ACÁ ERES TÚ PERRO ZARNOSO",LGBT+
+testHS-F01,#8M ojala todas las mujeres de la marcha las maten por hijas de puta que las quemen como los judios,MUJERES
+testHS-F02,Qué asqueante! Esta mujer es más marimacho que femenina. No respeta nada. Ojalá vuele lejos!,MUJERES
+testHS-F03,"Sois una MIERDA. Recomendad lo que queráis para los hipocondriacos y enfermos mentales, al resto ni mirarnos. Te queda claro PERRA?",MUJERES
+testHS-F04,"Siempre hay una zorra berreando cuando le dan leña a la escoria. Da igual el país o el año, es simple biología averiada",MUJERES
+testHS-F05,"las mujeres son mentalmente blandengues y extremadamente manipulabes, quien se deje lavar el cerebro con el feminismo merece acabar asi",MUJERES
+testHS-F06,"Las mujeres, literalmente, se babean por un hombre líder, que las lidere a ellas y a su familia; incluso la más feminista, aunque esta última no lo reconozca. Para una mujer le será fácil someterse a un hombre verdaderamente líder. A los hombres blandengues solo los utilizan.",MUJERES
+testHS-F07,"son todas re putas las mujeres, TODAS",MUJERES
+testHS-F08,"Las mujeres solo sirven para reproducirse, son hasta genéticamente inútiles",MUJERES
+testHS-F09,"La mujer es cruel por naturaleza. Se deja llevar por los sentimientos, y si tiene la oportunidad de hacer daño, lo hará. Afortunadamente, son el sexo débil. Por eso su frustración.",MUJERES
+testHS-F10,"Los hombres no celebramos el día del hombre como tal
+Simplemente disfrutamos de la vida por nuestros logros Heteropatriarcas, mientras el sexo débil y sus facciones feminoides y comunidades de individuos cuya identidad ni ellos saben, intentan tener los éxitos del sexo supremo.",MUJERES
+testHS-M01,las follamoros dice yo flipo con como habláis de las mujeres ojalá y lo digo en serio to las mujeres de tu familia acaben con moros incluida tu puta madre a ver si explotas de la rabia,MUSULMANES
+testHS-M02,"soy facha, putos moros a vuestro país que oléis a cuero mojado",MUSULMANES
+testHS-M03,"Éstos hijos de la gran puta,de los 
+moros nos invaden con sus enfermedades, vienen a delinquir.
+A vivir de nuestros impuestos.
+Y además se ríen de nosotros.
+Hay algún otro país de gilipollas,
+o solo pasa esto en España.",MUSULMANES
+testHS-M04,"Ostia pero que puta gentuza ya de verdad
+
+Fuera todos los moros de aquí, son la encarnación del mal y de la amoralidad",MUSULMANES
+testHS-M05,"Luces de Ramadan en Londres. 
+Ya han sido conquistados.
+En España, a escala menor, ya colacan carteles en un pueblo de Jaén de 8000 habitantes, donde viven 400 musulmanes.
+Poco a poco irán aumentando en número e imponiendo su ley.
+La Sharia está más cerca.",MUSULMANES
+testHS-M06,"Yihadistas masacran y secuestran cristianos en Nigeria. Cero protestas de los ""progres"" porque (1) los cristianos no les importan, (2) los africanos no les importan, (3) los musulmanes pueden matar a cualquiera, y (4) no hay judíos implicados.",MUSULMANES
+testHS-M07,Me encanta el olor a Panceta durante el Ramadán.,MUSULMANES
+testHS-M08,Qué asco de raza los pvtos moros,MUSULMANES
+testHS-M09,Estoy hasta la puta polla de los moros de mierda que son siempre los mismos que puto asco me dan ya coño poco se salvan,MUSULMANES
+testHS-M10,"Desprecio a los musulmanes por creer en una relifion de mierda y odio el islam, es increible que a una feminista haya que decirle lo mucho que esta mal la simple existencia de esa religion y de defender sus actos ",MUSULMANES
+testHS-I01,"Sospechosa la invasión de inmigrantes en Europa, todos al mismo tiempo... Como si fuera organizado, no?",MIGRANTES
+testHS-I02,Ojalá ejecuten al sistema judicial irlandés por traicionar a su pueblo y brindar toda ayuda a los putos inmigrantes,MIGRANTES
+testHS-I03,Putos inmigrantes hijos de puta,MIGRANTES
+testHS-I04,"...ya lo reciben los moros violadores asaltavallas que tan bien acogen nuestras autoridades, los ladrones puteros malversadores golpistas y terroristas de 
+@PSOE",MIGRANTES
+testHS-I05,"El buenísmo y la inmigración descontrolada se ceba en los más débiles.
+Las políticos no conviven con la gentuza que no expulsan o que tratan como ""niños malos"", y no como asesinos que son.",MIGRANTES
+testHS-I06,"Hace unos días hubo una balacera justo al frente del colegio de mi hermano..
+Tuvieron que evacuar y mandar a los niños antes para la casa
+Y.. ¿Saben lo peor? Eran inmigrantes ilegales..
+¿Hasta cuando? ¿Porque mierda los NIÑOS tienen que correr riesgo por culpa de esta ""Gente""? 🤬",MIGRANTES
+testHS-I07,"Malditos inmigrantes que disfrutan de los espacios públicos y te dan de comer gratis, van a acabar con occidente 😠😠😠",MIGRANTES
+testHS-I08,"Este dato es DEMOLEDOR: según la ertzaintza, el 90 % de las violaciones en el País Vasco las cometen inmigrantes magrebíes y subsaharianos.
+
+¿Será que los de la ertzaintza son unos peligrosos fascistas de ultraderecha? ¿O será que somos gilipollas dejando entrar a todo el mundo?",MIGRANTES
+testHS-I09,¡Simplemente un asco! Me cago en la madre de todos los asqueroso inmigrantes,MIGRANTES
+testHS-I10,"Fuera inmigrantes. En realidad son delincuentes pagados por Rusia, China, Irán y Venezuela para que invadan a EE.UU. y generen caos.",MIGRANTES
+testHS-P01,"Los subnormales estos quieren que en la seleccion juegue gnte del madrid y son todos negracos del este de africa, el unico español que hay es nacho, no voy ni a faltarle el respeto porque bastante tiene con lo q tiene",POC
+testHS-P02,"-que tienen en común las tostadas y los padres?
+-QUE?
+-que si ambos te salen negros no comes...",POC
+testHS-P03,"El negro tiene tan interiorizado que el hombre blanco es malvado, que a la mínima oportunidad que tiene se pira a un pais de blancos, para que le maltraten y humillen, como malvados blancos que son.",POC
+testHS-P04,"Putos cacaguanos, periguanchos, monos, sudacas, conguitos, cafes con leche.. Les ha tenido que salir justo hoy el partido de su vida. HDP",POC
+testHS-P05,"Odio a los negros, odio a los judíos, a los mexicanos y a los irlandeses, a los italianos y a los chinos, pero bien sabe Dios que lo que más asco me dan son los putos negratas",POC
+testHS-P06,"En esta ciudad te mata un negro o la humedad, imposible vivir así",POC
+testHS-P07,"Que negros hijos de mil puta, cómo te cagan la vida te complican todo, lo que te costó conseguir matandote laburando te lo sacan en 2 segundos.",POC
+testHS-P08,"Negro hijo de puta si lo que te faltaba era ser puto, ademas de comerte goles te comes la pija. BURRO",POC
+testHS-P09,"Yo viviera en USA ya les hubiera quitado el vicio con balas a esos negros que se creen el putas y que el mundo tiene que agachar la cabeza porque fueron esclavos..
+
+Mknes que nunca fueron esclavos!
+A la mayoría de sus ancestros se les dió tierras.
+Pero el mundo les debe..🙄",POC
+testHS-P10,"Que pendeja pelotuda, la tendria que haber cagada bien a palos a esa negrita de mierda",POC
+testHS-P11,"Es que este negrata de mierda se lo merece. Ojalá le acabe pasando a él lo que le pasó a Dyakhabi. TONTOS, QUE SOIS MUY TONTOS!!!!!",POC
+testHS-O01,Gordo de re mierda quien carajos quiere viajar con vos,otros
+testHS-O02,Qué asco de gitanacos,otros
+testHS-O03,"Falso. La inmensa mayoría de hogares de gente honrada pagan muchos más impuestos de lo que reciben en subvenciones. El problema son las paguicas compra votos, a gitanos e inmigrantes.",otros
+testHS-O04,"Eso no parece una niña, seguramente es un ballenato con dawn de la especie cachalote. Devuelvan esa cosa al mar por FAVOR",otros
+testHS-O05,Los Musulmanes o El islan o estos perros gitanos son la misma mierda  esos hijos de puta jamás se van a adaptar a la sociedad son tan racista y creyentes en su mierda de religión que no perdonan A nadie solo ellos son los perfectos y se creen inmortales manden a la mierda a toda esa lacra,otros
+testHS-O06,"m vale, los gordos dan asco de solo verlos",otros
+testHS-O07,"Un cine lleno de gitanos. Dos guardias civiles en la última fila.
+¿Cómo se llama la película?
+
+""Los últimos sus murais""",otros
